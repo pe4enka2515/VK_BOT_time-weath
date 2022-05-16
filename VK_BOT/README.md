@@ -1,4 +1,7 @@
 <img src="logo.png" style="display: block;margin: 0 auto;">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/pe4enka2515/VK_BOT_time-weath?logo=GitHub&logoColor=%230e7fc0) ![GitHub last commit](https://img.shields.io/github/last-commit/pe4enka2515/VK_BOT_time-weath?logo=GitHub&logoColor=%234cc61e)
+
 <h1 style="text-align: center">Бот "Твое расписание"</h1>
 Проект создан для облегчения поиска и просмотра расписания студентов института ИТ, обучающихся на 2 курсе бакалавриата, а также для удобного просмотра погоды в Москве.
 VK_BOT представляет собой бота в социальной сети ВКонтакте, обладает удобным и понятным функционалом. 
